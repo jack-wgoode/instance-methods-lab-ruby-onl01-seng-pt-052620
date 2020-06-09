@@ -1,4 +1,15 @@
-class Person
+class Person 
+
+def initialize 
   
- def 
  end
+ 
+ def talk
+   puts "Hello World!"
+ end
+ 
+ def walk 
+   puts "The Dog is sitting"
+ end
+
+end
