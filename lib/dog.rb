@@ -9,7 +9,6 @@ def initialize
  end
  
  def sit 
-   puts "The Do"
-
+   puts "The Dog is sitting"
 end
 
