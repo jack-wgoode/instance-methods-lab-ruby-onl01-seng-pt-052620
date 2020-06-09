@@ -9,7 +9,7 @@ def initialize
  end
  
  def walk 
-   puts "The Dog is sitting"
+   puts "The Person is walking"
  end
 
 end
