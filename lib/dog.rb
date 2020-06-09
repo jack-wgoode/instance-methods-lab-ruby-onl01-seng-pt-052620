@@ -7,6 +7,9 @@ def initialize
  def bark
    puts "Woof!"
  end
+ 
+ def sit 
+   puts "The Do"
 
 end
 
