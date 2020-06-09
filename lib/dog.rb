@@ -9,3 +9,5 @@ class Baby
   end
   
   def bark
+    
+  end
